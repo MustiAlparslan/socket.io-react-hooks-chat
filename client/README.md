@@ -11,11 +11,11 @@ as far as i understand the package versions were not up to date
 
 I decided to delete yarn and switch to npm
 
-###`npm install -g npm-check-updates`
-###`ncu -u`
-###`npm update`
-###`npm install`
+### `npm install -g npm-check-updates`
+### `ncu -u`
+### `npm update`
+### `npm install`
 
 and run 
-###`npm start`
+### `npm start`
 
