@@ -1,3 +1,14 @@
-Read more about the app: [Build a real-time chat app with React hooks and Socket.io](https://medium.com/p/build-a-real-time-chat-app-with-react-hooks-and-socket-io-4859c9afecb0?source=email-63d38b10a2f2--writer.postDistributed&sk=033d9c474a542bd8640709295b842729).
 
-Live demo: https://pixochi.github.io/socket.io-react-hooks-chat-client-v2/
+
+client setup
+### `npm install`
+### `npm start`
+
+Server setup
+### `yarn install`
+### `yarn start`
+
+![home_page](https://user-images.githubusercontent.com/98889289/224551470-85c86a14-52d4-459d-bcb2-f18b01e98fc6.png)
+
+![messag1](https://user-images.githubusercontent.com/98889289/224551473-0dd8169e-cf05-4593-b505-21e061e308dc.png)
+![messag2](https://user-images.githubusercontent.com/98889289/224551475-13a43fa7-56c1-4703-b976-5017b1a582d6.png)
